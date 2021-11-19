@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "971847625710",
+    "firebase_url": "https://login3-c14ba-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "login3-c14ba",
+    "storage_bucket": "login3-c14ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971847625710:android:3be0d944b5bcca2ba77cff",
+        "android_client_info": {
+          "package_name": "com.example.login3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971847625710-atk53fsjtttorctk6lndiaei1c2jp1e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJHdsaKcTkfaACttbZ4jnMpUL2SM7Rk38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971847625710-atk53fsjtttorctk6lndiaei1c2jp1e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
